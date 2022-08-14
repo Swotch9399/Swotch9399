@@ -4,7 +4,7 @@
 
 ## <div align="center">I'm Taylan, mainly a Discord Bot Developer! Working since 2020 on Bots :rocket:</div>  
 
-![](https://discord.c99.nl/widget/theme-1/619841555255132160.png)  
+![](https://discord.c99.nl/widget/theme-2/619841555255132160.png)  
 
 ***
 - :seedling: I’m currently coding in **Javascript**, HTML, PHP and C#.
