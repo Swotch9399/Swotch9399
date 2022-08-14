@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/906619159151013929/1008348357766426714/20220814_151551.png?width=1080&height=608" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">I'm Taylan, mainly a Discord Bot Developer! Working since 2020 on Bots :rocket:</div>  
+## <div align="center">I'm Taylan, mainly a Discord Bot and Website Developer!  Working in Bots since 2020🚀</div>  
 
 ![](https://discord.c99.nl/widget/theme-3/619841555255132160.png)  
 
