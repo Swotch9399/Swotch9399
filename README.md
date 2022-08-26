@@ -13,7 +13,7 @@
 ***
 
 ## [:link: Discord Server](https://discord.gg/rWqdhKuJdN)
-## [:link: Website](https://pandamusic-bot.vercel.app/)
+## [:link: Website](https://taylangzln.vercel.app/)
 
 ***
 
