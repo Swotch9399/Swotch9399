@@ -20,7 +20,7 @@
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
-[![2022's best Music Bot | Panda Music](https://discord.com/api/oauth2/authorize?client_id=899378464925286411&permissions=8&scope=bot%20applications.commands)
+[Hawwo Music İnvite](https://discord.com/api/oauth2/authorize?client_id=899378464925286411&permissions=8&scope=bot%20applications.commands)
 
 # Credits
 
