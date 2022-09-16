@@ -1,7 +1,7 @@
 <div align="center" style"border-radius:15px">
 </div>
 
-## <div align="center">Hello, I am Taylan, I am 14 years old, I am the owner of the Panda Music bot. I am proficient in Javascript, HTML, Python and C# coding languages. I am currently learning C++. Those who want to reach me can check the contact section. 🚀</div>  
+## <div align="center">Hello, I am Taylan, I am 14 years old, I am the owner of the Hawwo Music bot. I am proficient in Javascript, HTML, Python and C# coding languages. I am currently learning C++. Those who want to reach me can check the contact section. 🚀</div>  
 
 ![](https://discord.c99.nl/widget/theme-3/619841555255132160.png)  
 
