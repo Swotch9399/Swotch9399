@@ -8,6 +8,7 @@
 ***
 - :seedling: I’m currently coding in **Javascript**, HTML, PHP and C#.
 <br/>
+
 ***
 
 ## [:link: Discord Server](https://discord.gg/rWqdhKuJdN)
