@@ -6,10 +6,8 @@
 ![](https://discord.c99.nl/widget/theme-3/619841555255132160.png)  
 
 ***
-
 - :seedling: I’m currently coding in **Javascript**, HTML, PHP and C#.
 <br/>
-
 ***
 
 ## [:link: Discord Server](https://discord.gg/rWqdhKuJdN)
