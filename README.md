@@ -9,7 +9,7 @@
 ![](https://discord.c99.nl/widget/theme-3/619841555255132160.png)
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,ejs,discord,react,html,css,nextjs,java,cs,cpp,mongodb,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,discord,react,html,css,nextjs,java,cs,cpp,mongodb,vscode&theme=dark"/>
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/trophy_1f3c6.png" /> GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=taylangzln&theme=darkhub&no-frame=true" />
