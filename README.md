@@ -2,7 +2,8 @@
 
 <h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
 
-- Hello, I am Taylan, I am 14 years old, I am the owner of the Hawwo Music bot. I am proficient in Javascript, HTML and C# coding languages. I am currently learning Python. Those who want to reach me can check the contact section.
+- Hello, I'm Taylan, I'm 14 years old, I live in Turkey and I'm a high school student. I am the developer of the Hawwo Music Discord bot.
+I am passionate about programming. Those who want to reach me can look at the contact section of my website.
 - Taylan 💛 JavaScript
 - Personal website: [taylangzln.vercel.app](https://taylangzln.vercel.app)
 
