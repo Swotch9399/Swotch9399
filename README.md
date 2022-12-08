@@ -20,3 +20,4 @@ I am passionate about programming. Those who want to reach me can look at the co
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/sparkles_2728.png" /> Stats</h2>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=taylangzln&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=taylangzln&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylangzln&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
