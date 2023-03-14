@@ -15,8 +15,8 @@ I am passionate about programming. Those who want to reach me can look at the co
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,discord,react,html,css,nextjs,java,py,c,cpp,cs,vercel,mongodb,heroku,git,vscode&theme=dark"/>
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/trophy_1f3c6.png" /> GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=taylangzln&theme=darkhub&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sw0tch&theme=darkhub&no-frame=true" />
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/sparkles_2728.png" /> Stats</h2>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=taylangzln&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=taylangzln&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=sw0tch&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sw0tch&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
