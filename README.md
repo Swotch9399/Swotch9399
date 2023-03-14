@@ -1,11 +1,11 @@
-<h1>Hi <img width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" />, I'm Taylan.</h1>
+<h1>Hi <img width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" />, I'm Swotch.</h1>
 
 <h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
 
-- Hello, I'm Taylan, I'm 14 years old, I live in Turkey and I'm a high school student. I am the developer of the Hawwo Music Discord bot.
+- Hello, I'm Swotch, I'm 15 years old, I live in Turkey and I'm a high school student. I am the developer of the Hawwo Music Discord bot.
 I am passionate about programming. Those who want to reach me can look at the contact section of my website.
-- Taylan 💛 JavaScript
-- Personal website: [taylangzln.vercel.app](https://taylangzln.vercel.app)
+- Swotch 💛 JavaScript
+- Personal website: [swotch.vercel.app](https://swotch.vercel.app)
 
 <h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> Discord Status</h2>
 
