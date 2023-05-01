@@ -12,7 +12,7 @@ I am passionate about programming. Those who want to reach me can look at the co
 ![](https://discord.c99.nl/widget/theme-3/619841555255132160.png)
 
 <h2 width="100%"> Technologies I use</h2>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,discord,react,html,css,nextjs,java,py,c,cpp,cs,vercel,mongodb,heroku,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,discord,react,html,css,nextjs,py,c,cpp,cs,vercel,mongodb,heroku,git,vscode&theme=dark"/>
 
 <h2 width="100%"> GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=swotch9399&theme=darkhub&no-frame=true" />
