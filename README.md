@@ -2,8 +2,7 @@
 
 <h2> About</h2>
 
-- Hello, I'm Swotch, I'm 15 years old, I live in Turkey and I'm a high school student. I am the developer of the Hawwo Music Discord bot.
-I am passionate about programming. Those who want to reach me can look at the contact section of my website.
+- Hello, I'm Swotch, I'm 15 years old, I live in Turkey and I'm a high school student. I am passionate about programming. Those who want to reach me can look at the contact section of my website.
 - Swotch 💛 JavaScript
 - Personal website: [swotch.vercel.app](https://swotch.vercel.app)
 
