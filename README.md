@@ -6,10 +6,6 @@
 - Swotch 💛 JavaScript
 - Personal website: [swotch.vercel.app](https://swotch.vercel.app)
 
-<h2> Discord Status</h2>
-
-![](https://discord.c99.nl/widget/theme-3/619841555255132160.png)
-
 <h2 width="100%"> GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=swotch9399&theme=darkhub&no-frame=true" />
 
