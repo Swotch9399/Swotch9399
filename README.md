@@ -6,12 +6,12 @@
 - Swotch 💛 JavaScript
 - Personal website: [swotch.vercel.app](https://swotch.vercel.app)
 
-<h2 width="100%"> Top Langs</h2>
+<h2 width="100%"> GitHubTop Langs</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swotch9399&theme=react&layout=compact" />
 
 <h2 width="100%"> GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=swotch9399&theme=darkhub&no-frame=true" />
 
-<h2 width="100%"> Stats</h2>
+<h2 width="100%"> GitHub Stats</h2>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=swotch9399&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=swotch9399&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
