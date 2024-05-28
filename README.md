@@ -6,7 +6,7 @@
 - Swotch 💛 JavaScript
 - Personal website: [swotch.vercel.app](https://swotch.vercel.app)
 
-<h2 width="100%"> GitHubTop Langs</h2>
+<h2 width="100%"> GitHub Top Langs</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swotch9399&theme=react&layout=compact" />
 
 <h2 width="100%"> GitHub Trophies</h2>
